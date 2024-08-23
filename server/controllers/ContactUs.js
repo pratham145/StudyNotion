@@ -20,7 +20,7 @@ exports.contactUsController = async (req, res) => {
     console.log("Error message :", error.message)
     return res.json({
       success: false,
-      message: "Something went wrong...",
+      message: "Somethingg went wrong....",
     })
   }
 }
