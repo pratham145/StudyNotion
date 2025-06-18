@@ -61,11 +61,11 @@
 
 
 
-### 👨‍🏫 Instructor Dashboard
+### 👨‍🏫 Course Creation Dashboard
 
 
 
-![Instructor Dashboard](COURSE.png)
+![Course Creation Dashboard](COURSE.png)
 
 
 
@@ -164,12 +164,12 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## ✉️ Contact
 
-* **Your Name** – Email: [you@example.com](mailto:you@example.com)
+* **Pratham rameshwar** – Email: [pk3827423@gmail.com](mailto:pk3827423@gmail.com)
 * GitHub: [pratham145](https://github.com/pratham145)
 
 ---
 
-Made with ❤️ by **You**, for learners and instructors worldwide.
+Made with ❤️ by **Pratham**, for learners and instructors worldwide.
 
 
 
