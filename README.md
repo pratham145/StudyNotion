@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Live Demo:</strong> 🔗 [your-frontend-url-here]
+  <strong>Live Demo:</strong> 🔗 [https://study-notion-iota-sage.vercel.app/]
 </p>
 
 ---
@@ -45,20 +45,19 @@
 
 ## 📸 Screenshots
 
-> Replace these with your actual `assets/screenshots/*.png` files
 
 ### 🏠 Homepage
 
 
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](/HOME.png)
 
 
 ### 📚 Course Catalog
 
 
 
-![Course List](assets/screenshots/course-list.png)
+![Course List](CATALOG.png)
 
 
 
@@ -66,7 +65,7 @@
 
 
 
-![Instructor Dashboard](assets/screenshots/instructor-dashboard.png)
+![Instructor Dashboard](COURSE.png)
 
 
 
