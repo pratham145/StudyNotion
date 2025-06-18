@@ -1,6 +1,6 @@
 
 
-```markdown
+
 <h1 align="center">📚 StudyNotion</h1>
 <p align="center">
   A full-featured EdTech platform built with the MERN stack, empowering users to create, consume, rate, and manage educational content.
@@ -42,7 +42,6 @@
 |---------------|--------------------|------------|----------------|-------------|----------------|
 | React.js      | Node.js + Express  | MongoDB    | JWT, OTP       | Razorpay    | Cloudinary     |
 
----
 
 ## 📸 Screenshots
 
@@ -50,27 +49,26 @@
 
 ### 🏠 Homepage
 
-```
+
 
 ![Homepage](assets/screenshots/homepage.png)
 
-```
 
 ### 📚 Course Catalog
 
-```
+
 
 ![Course List](assets/screenshots/course-list.png)
 
-```
+
 
 ### 👨‍🏫 Instructor Dashboard
 
-```
+
 
 ![Instructor Dashboard](assets/screenshots/instructor-dashboard.png)
 
-````
+
 
 ---
 
@@ -84,20 +82,20 @@
 
 ### Installation
 
-```bash
+
 git clone https://github.com/pratham145/StudyNotion.git
 cd StudyNotion
 npm install         # installs root (frontend) dependencies
 cd server
 npm install         # installs backend dependencies
 cd ..
-````
+
 
 Create and configure:
 
-* `/server/.env`:
+* /server/.env:
 
-  ```
+  
   MONGODB_URL=...
   JWT_SECRET=...
   MAIL_HOST=smtp.gmail.com
@@ -109,21 +107,21 @@ Create and configure:
   CLOUD_NAME=...
   CLOUD_API_KEY=...
   CLOUD_API_SECRET=...
-  ```
+  
 
-* `/.env` (root):
+* /.env (root):
 
-  ```
+  
   REACT_APP_BASE_URL=http://localhost:4000
-  ```
+  
 
 ### Running Locally
 
 Launch both servers concurrently:
 
-```bash
+
 npm run dev  # concurrently starts frontend & backend
-```
+
 
 Frontend: `http://localhost:3000`
 Backend APIs: `http://localhost:4000/api/...`
@@ -174,15 +172,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Made with ❤️ by **You**, for learners and instructors worldwide.
 
-```
 
----
 
-### ✅ Next Steps:
-1. Place your actual screenshots in `assets/screenshots/` and update the image links.
-2. Add a working live demo URL.
-3. Swap placeholder contact details with your own.
 
-Let me know if you’d like help generating the Markdown lines once you upload your screenshots or want to add GIFs, badges, or a dynamic table of contents!
-::contentReference[oaicite:0]{index=0}
-```
+
